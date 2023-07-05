@@ -189,6 +189,12 @@ span{
 	background: url(tejazo.jpg) center/cover;
 
 }
+.card__img5{
+	width: 100%;
+	height: 150px;
+	background: url(justrun2d.jpg) center/cover;
+
+}
 
 .card__title{
 	padding:  10px;
